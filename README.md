@@ -71,9 +71,11 @@ Maintained by Zihao Wang. Last update on 2022/10/16.
 
 28. [UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog](https://arxiv.org/abs/2205.00423), CVPR 2022
 
-29. [Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog](https://dl.acm.org/doi/10.1145/3503161.3547776), ACM MM 2022
+29. [VD-PCR: Improving visual dialog with pronoun coreference resolution](https://doi.org/10.1016/j.patcog.2022.108540), Pattern Recognition 2022, [[code]](https://github.com/HKUST-KnowComp/VD-PCR)
 
-30. [Unified Multimodal Model with Unlikelihood Training for Visual Dialog](https://dl.acm.org/doi/10.1145/3503161.3547974), ACM MM 2022
+30. [Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog](https://dl.acm.org/doi/10.1145/3503161.3547776), ACM MM 2022
+
+31. [Unified Multimodal Model with Unlikelihood Training for Visual Dialog](https://dl.acm.org/doi/10.1145/3503161.3547974), ACM MM 2022
 
 ## ImageChat
 [Engaging Image Chat: Modeling Personality in Grounded Dialogue](http://arxiv.org/abs/1811.00945), ACL 2020, [[code]](http://parl.ai/projects/image_chat)
