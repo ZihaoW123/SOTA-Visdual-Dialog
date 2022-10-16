@@ -1,9 +1,9 @@
 # SOTA-papers-for-Visdual-dialog
 
 # awesome-Visual Dialog
-Recent Advances in Visual Dialog
-Maintained by Feilong Chen. Last update on 2022/08/19.
-<!-- Last update on 2021/09/14. -->
+Advances in Visual Dialog
+Maintained by Zihao Wang. Last update on 2022/10/16.
+<!-- Last update on 2022/10/16. -->
 ## Table of Contents
 
 * [Image-based Visual Dialog](#Image-based-Visual-Dialog)
