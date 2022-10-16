@@ -100,3 +100,7 @@ Maintained by Zihao Wang. Last update on 2022/10/16.
 
 * [Visual Dialog Homepage](https://visualdialog.org/)
 * [Visual Dialog Challenge Startcode](https://github.com/batra-mlp-lab/visdial-challenge-starter-pytorch)
+
+# Acknowledgement
+
+* [awesome-Visual Dialog](https://visualdialog.org/)
