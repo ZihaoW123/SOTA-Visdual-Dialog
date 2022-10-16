@@ -1,4 +1,4 @@
-# SOTA-papers-for-Visdual-dialog
+# SOTA-papers-for-Visual-Dialog
 
 # awesome-Visual Dialog
 Advances in Visual Dialog
