@@ -82,12 +82,6 @@ Last update on 2022/10/16.
 ## PhotoChat
 [PhotoChat: A Human-Human Dialogue Dataset with Photo Sharing Behavior for Joint Image-Text Modeling](https://arxiv.org/abs/2108.01453), ACL 2021, [[code]](https://github.com/google-research/google-research/tree/master/multimodalchat/)
 
-## GuessWhat
-[GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
-
-## GuessWhich
-[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585), ICCV 2017, [[code]](https://github.com/batra-mlp-lab/visdial-rl)
-
 ## Chinese Multi-Modal Chat
 [MMChat: Multi-Modal Chat Dataset on Social Media Yinhe](https://aclanthology.org/2022.lrec-1.621/), LREC 2022, [[code]](https://github.com/batra-mlp-lab/visdial-rl)
 
