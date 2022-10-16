@@ -103,4 +103,4 @@ Maintained by Zihao Wang. Last update on 2022/10/16.
 
 # Acknowledgement
 
-* [awesome-Visual Dialog](https://visualdialog.org/)
+* [awesome-Visual Dialog](https://github.com/phellonchen/awesome-visual-dialog)
