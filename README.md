@@ -1,8 +1,7 @@
-# SOTA-papers-for-Visual-Dialog
+# SOTA-for-Visual-Dialog
 
-# awesome-Visual Dialog
 Advances in Visual Dialog
-Maintained by Zihao Wang. Last update on 2022/10/16.
+Last update on 2022/10/16.
 <!-- Last update on 2022/10/16. -->
 ## Table of Contents
 
