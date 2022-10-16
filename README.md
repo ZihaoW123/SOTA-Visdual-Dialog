@@ -1,4 +1,4 @@
-# SOTA-for-Visual-Dialog
+# SOTA-Visual-Dialog
 
 Advances in Visual Dialog
 Last update on 2022/10/16.
