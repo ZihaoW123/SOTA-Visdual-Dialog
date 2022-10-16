@@ -73,7 +73,13 @@ Maintained by Feilong Chen. Last update on 2022/08/19.
 
 29. [Unsupervised and Pseudo-Supervised Vision-Language Alignment in Visual Dialog](https://dl.acm.org/doi/10.1145/3503161.3547776), ACM MM 2022
 
-29. [Unified Multimodal Model with Unlikelihood Training for Visual Dialog](https://dl.acm.org/doi/10.1145/3503161.3547974), ACM MM 2022
+30. [Unified Multimodal Model with Unlikelihood Training for Visual Dialog](https://dl.acm.org/doi/10.1145/3503161.3547974), ACM MM 2022
+
+## ImageChat
+[Engaging Image Chat: Modeling Personality in Grounded Dialogue](http://arxiv.org/abs/1811.00945), ACL 2020, [[code]](http://parl.ai/projects/image_chat)
+
+## PhotoChat
+[PhotoChat: A Human-Human Dialogue Dataset with Photo Sharing Behavior for Joint Image-Text Modeling](https://arxiv.org/abs/2108.01453), ACL 2021, [[code]](https://github.com/google-research/google-research/tree/master/multimodalchat/)
 
 ## GuessWhat
 [GuessWhat?! Visual object discovery through multi-modal dialogue](https://arxiv.org/abs/1611.08481), CVPR 2017, [[code]](https://github.com/GuessWhatGame/guesswhat)
