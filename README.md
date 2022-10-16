@@ -87,9 +87,12 @@ Maintained by Feilong Chen. Last update on 2022/08/19.
 ## GuessWhich
 [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585), ICCV 2017, [[code]](https://github.com/batra-mlp-lab/visdial-rl)
 
+## Chinese Multi-Modal Chat
+[MMChat: Multi-Modal Chat Dataset on Social Media Yinhe](https://aclanthology.org/2022.lrec-1.621/), LREC 2022, [[code]](https://github.com/batra-mlp-lab/visdial-rl)
+
 # Video-based Visual Dialog
 
-[Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), AAAI 2020, [[code]](https://github.com/ictnlp/DSTC8-AVSD)
+[Bridging Text and Video: A Universal Multimodal Transformer for Video-Audio Scene-Aware Dialog](https://arxiv.org/abs/2002.00163), AAAI 2020, [[code]]([https://github.com/ictnlp/DSTC8-AVSD](https://github.com/silverriver/mmchat))
 
 
 
